@@ -69,8 +69,8 @@ global.websitex = "https://instagram.com/_g.a.p.p.u_" //ur website to be display
 global.botscript = 'https://www.facebook.com/profile.php?id=100015805215445' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "༆💞ᘜᗩᑭᑭᑌ-ᗷOT🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🔥🦄𝐃𝐄𝐄𝐏𝐀𝐊❤️‍🔥💫" //ur sticker watermark author
+global.packname = "『ɪɴᴅ』☯▓🌛🎗🎗🅿🅰🎋𓀎" //ur sticker watermark packname
+global.author = "Gappu(🪔)🤗💫" //ur sticker watermark packname
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
